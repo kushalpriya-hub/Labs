@@ -1,0 +1,12 @@
+
+{
+  "name": "-assignment-three-task",
+  "version": "1.0.0",
+ 
+  "description": "Users API using Node.js http module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true
+}
